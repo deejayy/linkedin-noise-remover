@@ -4,7 +4,7 @@
 
 [Download Chrome Extension (crx file)](https://github.com/deejayy/linkedin-noise-remover/releases) - use it in Brave browser or Ungoogled Chromium.
 
-Or in the hard way:
+Or in the hard way if you use Google Chrome:
 - save as (Chrome will delete if you just click on the link)
 - rename to zip, extract to a folder
 - on the extensions tab, turn on developer mode
